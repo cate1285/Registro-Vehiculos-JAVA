@@ -77,5 +77,6 @@ Y con los siguientes métodos:
 
 Al finalizar el programa debe mostrar el valor que se gano durante todo el día.
 
+Diagrama de clases
 ![image](https://user-images.githubusercontent.com/73371710/133013033-41c30d84-ba48-46f4-ad94-a771d8483b31.png)
 
